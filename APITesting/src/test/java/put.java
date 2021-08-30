@@ -15,6 +15,7 @@ public class put {
 	{
 		Map<String, Object> map=new HashMap<String, Object>();
 		
+		
 //		map.put("name", "Ravi");
 //		map.put("job", "IT");
 //		System.out.println(map);
